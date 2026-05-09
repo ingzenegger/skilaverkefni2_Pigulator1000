@@ -32,4 +32,4 @@ Just open `index.html` in any browser — no installation needed.
 ## Built with
 
 - HTML, CSS, JavaScript
-- [Evening class project — University/School name, Year]
+- [Class project — NTV Programming Track, Fall 2025]

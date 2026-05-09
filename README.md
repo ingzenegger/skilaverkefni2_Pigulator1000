@@ -7,7 +7,7 @@ A browser-based math game built with JavaScript.
 A random target number is generated at the start. Using the calculator,
 you try to reach that exact number through addition, subtraction,
 multiplication, or division. Hit the target and a dancing pig celebrates
-your success!
+your success! Miss the target and a sad pig 🐷😢 commiserates with you. 
 
 ## What it demonstrates
 
@@ -24,8 +24,6 @@ Just open `index.html` in any browser — no installation needed.
 
 ![Start screen](screenshots/Pigulator_start.png)
 ![Waiting screen](screenshots/Pigulator_waiting.png)
-![Success screen](screenshots/Pigulator_success.png)
-![Failure screen](screenshots/Pigulator_failure.png)
 
 ## gifs
 ![dancing pig](pigsDance.gif)
